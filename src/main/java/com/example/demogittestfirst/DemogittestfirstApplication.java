@@ -10,4 +10,7 @@ public class DemogittestfirstApplication {
         SpringApplication.run(DemogittestfirstApplication.class, args);
     }
 
+    /**
+     * Idea测试
+     */
 }
